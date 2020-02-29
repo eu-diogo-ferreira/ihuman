@@ -1,0 +1,9 @@
+CREATE TABLE eventos (
+    id INT PRIMARY KEY AUTO_INCREMENT NOT NULL,
+    nome VARCHAR(100),
+    dia VARCHAR(100),
+    localizacao VARCHAR(100),
+    telefone VARCHAR(100),
+    realizador VARCHAR(100),
+    uf VARCHAR(2)
+);

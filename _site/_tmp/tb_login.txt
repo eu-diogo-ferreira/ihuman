@@ -1,0 +1,16 @@
+CREATE TABLE login(
+    id INT PRIMARY KEY AUTO_INCREMENT NOT NULL,
+    nome VARCHAR(100),
+    class INT,
+    tipo VARCHAR(100),
+    email VARCHAR(100),
+    telefone VARCHAR(100),
+    cpf VARCHAR(100),
+    deficiencia VARCHAR(100),
+    idade INT,
+    endereco VARCHAR(100),
+    uf VARCHAR(2),
+    gostos VARCHAR(300),
+    foto VARCHAR(200),
+    tutor VARCHAR(100)
+);

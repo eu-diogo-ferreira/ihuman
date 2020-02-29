@@ -1,0 +1,20 @@
+/* Color Theme Swatches in Hex */
+.unicorn-1-hex { color: #F20F8C; }
+.unicorn-2-hex { color: #44A1F2; }
+.unicorn-3-hex { color: #C7D943; }
+.unicorn-4-hex { color: #F2D544; }
+.unicorn-5-hex { color: #F25A38; }
+
+/* Color Theme Swatches in RGBA */
+.unicorn-1-rgba { color: rgba(242, 15, 140, 1); }
+.unicorn-2-rgba { color: rgba(68, 161, 242, 1); }
+.unicorn-3-rgba { color: rgba(199, 217, 67, 1); }
+.unicorn-4-rgba { color: rgba(242, 213, 68, 1); }
+.unicorn-5-rgba { color: rgba(242, 90, 56, 1); }
+
+/* Color Theme Swatches in HSLA */
+.unicorn-1-hsla { color: hsla(326, 89, 50, 1); }
+.unicorn-2-hsla { color: hsla(207, 86, 60, 1); }
+.unicorn-3-hsla { color: hsla(67, 66, 55, 1); }
+.unicorn-4-hsla { color: hsla(49, 86, 60, 1); }
+.unicorn-5-hsla { color: hsla(10, 87, 58, 1); }
