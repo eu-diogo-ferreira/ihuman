@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 -> Criar um banco de dados chamado 'ihuman';
 
 -> LOGINS pré cadastrados:
@@ -8,3 +9,6 @@
     -123;
 
 -> Necessária conexão com a internet para utilização do ChatBot Tom(Blip);
+=======
+
+>>>>>>> db8a85481745a799f3bb5007cb6d3f186afa4be0
