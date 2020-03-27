@@ -1,6 +1,12 @@
+<div align="center" style="margin-bottom:30px">
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) 
+
 # iHuman
 
 This project was created with the aim of promoting the integration of physically and intellectually disabled people with volunteers, institutions and events previously registered.
+
+</div>
 
 ## Observations:
 
